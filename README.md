@@ -1,2 +1,2 @@
-# pinupPWAs
+# PinupPWAs
 Repository to share REST API endpoints/urls for Pinup PWAs development.
